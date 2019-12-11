@@ -67,8 +67,8 @@ def naming_system
   # HoH all the way to Species!
   myHoH = {
     :portion_1=>PORTION_1, 
-    PORTION_2, 
-    PORTION_3, 
-    PORTION_4}
+    :portion_2=>PORTION_2, 
+    :portion_3=>PORTION_3, 
+    :portion_4=>PORTION_4}
   return myHoH
 end
