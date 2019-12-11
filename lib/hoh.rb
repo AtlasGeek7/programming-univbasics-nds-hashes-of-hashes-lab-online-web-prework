@@ -76,7 +76,6 @@ def naming_system
         }
       }
     }
-    
   }
   return myHoH
 end
